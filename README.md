@@ -4,9 +4,9 @@ Para realizar os testes de proficiência para a vaga, vamos precisar que realize
 Ao finalizar cada task, execute o comando "yarn test" para executar os testes.
 Se der SUCCESS, siga para a próxima task.
 
-1 - Criar uma página no Next.js "/teste" com um h1 "Hello P9digital" e um botão "Entrar" que redireciona para a página do formulário "/form";
+1 - Criar uma página no Next.js "/teste" com um h1 "Hello Empresa" e um botão "Entrar" que redireciona para a página do formulário "/form";
     - Criar a página "/teste";
-    - Criar o h1 com o texto "Hello P9digital" e insira a classe "titulo";
+    - Criar o h1 com o texto "Hello Empresa" e insira a classe "titulo";
     - Criar o botão com o texto "Entrar" que redireciona para a página "/form";
 
 2 - Na página /form, crie no form simples os campos "celular, uf e cidade" e o botão "Enviar" que imprima um alert com o texto "Dados enviados com sucesso!"
